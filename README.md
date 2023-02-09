@@ -7,5 +7,4 @@
 ![image](https://user-images.githubusercontent.com/56675669/217625322-9c99afac-64c1-4526-bcf1-5f18e9e1c58a.png)
 #### После редиректимся на главную страницу и получаем доступ к данным
 ![image](https://user-images.githubusercontent.com/56675669/217625493-7fa51a5c-2ccc-4188-9505-1ba2aed5d8f3.png)
-#### И
-![image](https://user-images.githubusercontent.com/56675669/217625705-7e96d988-995e-4e1d-8395-f630023fa8b0.png)
+
