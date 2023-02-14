@@ -1,10 +1,10 @@
 # oauth
 #### Вот так выглядит исходная страница
-![image](https://user-images.githubusercontent.com/56675669/217625104-07568545-0019-4355-9080-3143b4ad7501.png)
+!![image](https://user-images.githubusercontent.com/56675669/218688397-a4a23073-3244-410f-82ad-28371887097b.png)
 #### при переходе на вкладку http://127.0.0.1:8000/oauth/ мы получаем
-![image](https://user-images.githubusercontent.com/56675669/217625270-5b3d29e1-e360-4448-8f25-f258745f1cf6.png)
+![image](https://user-images.githubusercontent.com/56675669/218681517-a83c6312-9edf-4535-9195-2664f9d8d6e2.png)
 #### При нажатии на кнопку
-![image](https://user-images.githubusercontent.com/56675669/217625322-9c99afac-64c1-4526-bcf1-5f18e9e1c58a.png)
+![image](https://user-images.githubusercontent.com/56675669/218681585-65925e61-c751-46ca-adc3-257aabb63a73.png)
 #### После редиректимся на главную страницу и получаем доступ к данным
-![image](https://user-images.githubusercontent.com/56675669/217625493-7fa51a5c-2ccc-4188-9505-1ba2aed5d8f3.png)
+![image](https://user-images.githubusercontent.com/56675669/218685136-adaa3840-a3c5-4c10-a113-02abd723e16d.png)
 
