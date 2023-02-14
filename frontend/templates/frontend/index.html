@@ -8,6 +8,11 @@
   <link rel="stylesheet" href="https://bootswatch.com/5/litera/bootstrap.min.css"/>
 </head>
 <body>
+{% if user.is_authenticated %}
+  <p>Приветствую тебя {{ user.get_full_name}}</p>
+{% else %}
+  <p>Пожалуйста войдите на сайт по ссылке /oauth</p>
+{% endif %}
 <div id="app">
 </div>
 </body>
